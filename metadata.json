@@ -1,0 +1,6 @@
+{
+  "name": "Papa GEORGE",
+  "description": "Une application de guérison traditionnelle et de remèdes de Mimboman pour Papa GEORGE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
